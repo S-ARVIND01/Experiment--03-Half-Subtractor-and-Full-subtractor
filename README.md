@@ -43,7 +43,13 @@ RegisterNumber:  22007560
 
 ## Truthtable
 
+Half Subtractor:
 
+![output](/truth%20table%20half%20sub.png)
+
+Full Subtractor:
+
+![output](/truth%20table%20full%20sub.png)
 
 ##  RTL realization
 
